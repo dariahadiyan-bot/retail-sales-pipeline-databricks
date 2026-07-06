@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Pipeline — Databricks Medallion Architecture
+# Retail Sales Pipeline — Databricks Medallion Architecture
 
 **A portfolio data engineering project demonstrating vendor data ingestion,
 multi-format cleaning, medallion layering, and business metric generation.**
