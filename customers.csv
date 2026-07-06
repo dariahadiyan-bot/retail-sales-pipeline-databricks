@@ -1,0 +1,11 @@
+customer_id,Full_Name,email,phone,city,signup_date,loyalty_tier
+C100,john smith,john.smith@email.com,555-1234,New York,2023-06-01,Gold
+C101,SARAH JONES,sarah.j@email.com,,Chicago,2023-07-15,Silver
+C102,Mike Davis,mike.davis@,555-5678,New York,2023-08-20,Bronze
+C103,emily chen,emily.chen@email.com,555-9012,Los Angeles,2023-09-10,Gold
+C104,Robert Kim,,555-3456,Seattle,2023-10-05,Silver
+C105,AMANDA PATEL,amanda.p@email.com,5559999,Houston,2023-11-12,Bronze
+C106,chris lee,chris.lee@email.com,555-7890,Chicago,2023-12-01,Gold
+C107,Jessica Wong,j.wong@email.com,555-2345,Los Angeles,2024-01-05,Silver
+C108,David Brown,d.brown@email.com,,New York,2024-01-10,Bronze
+C109,lisa garcia,lisa.g@email.com,555-6789,Seattle,2024-01-15,Silver

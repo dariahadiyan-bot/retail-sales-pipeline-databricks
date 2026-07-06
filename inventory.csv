@@ -1,0 +1,9 @@
+Product ID,product_name,Category,stock_qty,reorder_level,unit_cost,last_updated,supplier
+PRD-001,Wireless Mouse,Electronics,45,10,12.50,2024-01-01,TechSupply Co
+PRD-002,USB-C Hub,electronics,12,15,22.00,01/01/2024,TechSupply Co
+PRD-003,Notebook Set,Stationery,200,50,5.00,2024-01-01,OfficeWorld
+PRD-004,Desk Lamp,HOME OFFICE,8,20,18.75,2024-01-01,LightingPro
+PRD-005,Sticky Notes,stationery,500,100,2.50,Jan 1 2024,OfficeWorld
+PRD-006,Mechanical Keyboard,Electronics,22,10,45.00,2024-01-01,TechSupply Co
+PRD-007,Monitor Stand,Home Office,30,15,16.00,2024-01-01,
+PRD-002,USB-C Hub,electronics,12,15,22.00,01/01/2024,TechSupply Co
